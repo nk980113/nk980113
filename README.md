@@ -26,10 +26,7 @@ const nk980113 = {
 
 export default nk980113;
 ```
-<!--
-[![](https://raw.githubusercontent.com/nk980113/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/nk980113/github-profile-summary-cards/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nk980113&theme=monokai)
 
 <!--
 **nk980113/nk980113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
