@@ -5,7 +5,7 @@ const nk980113 = {
   version: {
     major: 1,
     minor: 0,
-    patch: 0,
+    patch: 1,
   },
   ['good at']: [
     'node.js',
@@ -18,6 +18,7 @@ const nk980113 = {
     age: 12,
     sex: 'male',
     single: true,
+    country: Symbol('Taiwan'),
     email: 'gtsteg123@gmail.com',
     line: 'whattheegg.line',
     discord: 'eggeggegg#1278',
