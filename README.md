@@ -5,7 +5,7 @@ const nk980113 = {
   version: {
     major: 2,
     minor: 2,
-    patch: 0,
+    patch: 1,
   },
   ['good at']: [
     'node.js',
@@ -16,7 +16,7 @@ const nk980113 = {
     'electron.js',
   ],
   info: {
-    age: 12,
+    age: 13,
     sex: 'male',
     single: true,
     country: Symbol('Taiwan'),
