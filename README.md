@@ -3,11 +3,11 @@
 ```js
 const nk980113 = {
   version: {
-    major: 2,
-    minor: 2,
-    patch: 1,
+    major: 3,
+    minor: 0,
+    patch: 0,
   },
-  ['good at']: [
+  'good at': [
     'node.js',
   ],
   learning: [
@@ -26,29 +26,29 @@ const nk980113 = {
   },
   [Symbol('TODO')]: [
     {
-      before: new Date(2022, 0, 24),
+      before: new Date(2022, 3),
       todo: 'EGGBOT-turtle soup',
-      done: false,
-    },
-    {
-      before: new Date(2022, 2),
-      todo: 'yt-player',
-      done: false,
+      completed: 0.8,
     },
     {
       before: new Date(2022, 4),
+      todo: 'yt-player',
+      completed: 0.2,
+    },
+    {
+      before: new Date(2022, 6),
       todo: 'noter.js',
-      done: false,
+      completed: 0.01,
     },
     {
       before: new Date(2022, 8),
       todo: 'alstl',
-      done: false,
+      completed: 0.01,
     },
     {
       before: new Date(2022, 8),
       todo: 'GameBox',
-      done: false,
+      completed: 0.05,
     },
   ],
 };
