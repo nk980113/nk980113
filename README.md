@@ -5,7 +5,7 @@ const nk980113 = {
   version: {
     major: 4,
     minor: 0,
-    patch: 0,
+    patch: 1,
   },
   'good at': [
     'node.js',
@@ -24,7 +24,7 @@ const nk980113 = {
     line: 'whattheegg.line',
     discord: 'eggeggegg#1278',
   },
-  [Symbol('TODO')]: '',
+  [Symbol('TODO')]: 'whatever',
 };
 
 export default nk980113;
