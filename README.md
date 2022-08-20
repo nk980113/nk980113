@@ -3,7 +3,7 @@
 ```js
 const nk980113 = {
   version: {
-    major: 3,
+    major: 4,
     minor: 0,
     patch: 0,
   },
@@ -24,33 +24,7 @@ const nk980113 = {
     line: 'whattheegg.line',
     discord: 'eggeggegg#1278',
   },
-  [Symbol('TODO')]: [
-    {
-      before: new Date(2022, 3),
-      todo: 'EGGBOT-turtle soup',
-      completed: 0.8,
-    },
-    {
-      before: new Date(2022, 4),
-      todo: 'yt-player',
-      completed: 0.2,
-    },
-    {
-      before: new Date(2022, 6),
-      todo: 'noter.js',
-      completed: 0.01,
-    },
-    {
-      before: new Date(2022, 8),
-      todo: 'alstl',
-      completed: 0.01,
-    },
-    {
-      before: new Date(2022, 8),
-      todo: 'GameBox',
-      completed: 0.05,
-    },
-  ],
+  [Symbol('TODO')]: '',
 };
 
 export default nk980113;
