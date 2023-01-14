@@ -16,7 +16,7 @@ const nk980113 = {
     'electron.js',
   ],
   info: {
-    age: 13,
+    age: 14,
     sex: 'male',
     single: true,
     country: Symbol('Taiwan'),
@@ -33,7 +33,5 @@ export default nk980113;
 [![](https://raw.githubusercontent.com/nk980113/personal-card/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nk980113/personal-card/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nk980113/personal-card/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nk980113/personal-card/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 # To-do:
- - [ ] [noter.js](https://github.com/nk980113/noter)
- - [ ] [EGGBOT-turtle soup](https://github.com/nk980113/EGGBOT)
- - [ ] [alstl](https://github.com/nk980113/alstl)
- - [ ] [GameBox](https://github.com/nk980113/GameBox)
+  - [ ] [EGGBOT-turtle soup](https://github.com/nk980113/EGGBOT)
+  - [ ] [Freaking Terminal](https://github.com/nk980113/freaking-terminal)
