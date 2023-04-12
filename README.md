@@ -24,9 +24,20 @@ const eggeggegg = {
     'React.js',
     'Unity',
   ],
+  platform: [
+    'Windows 10',
+    'Windows 11',
+  ],
+  editor: [
+    'Visual Studio Code',
+    'Visual Studio',
+    'Notepad++',
+    // 💀
+    'Notepad',
+  ],
 };
 
-export const version = '5.0.0';
+export const version = '5.1.0';
 
 export default eggeggegg;
 ```
