@@ -1,37 +1,35 @@
 # 🤔🤔🤔🤔🤔🤔
 
 ```javascript
-const nk980113 = {
-  version: {
-    major: 4,
-    minor: 0,
-    patch: 1,
-  },
-  'good at': [
-    'node.js',
+const eggeggegg = {
+  age: 14,
+  sex: 'male',
+  single: true,
+  country: Symbol('Taiwan'),
+  career: 'student',
+  email: 'gtsteg123@gmail.com',
+  discord: 'eggeggegg#1278',
+  // ordered with frequency and familiarity
+  languages: [
+    'TypeScript',
+    'JavaScript',
+    'C# (Unity)',
+    'Scratch',
+    'Python',
+    'HTML',
+    'CSS',
+    'Excel VBA',
   ],
   learning: [
     'React.js',
-    'TypeScript',
-    'electron.js',
+    'Unity',
   ],
-  info: {
-    age: 14,
-    sex: 'male',
-    single: true,
-    country: Symbol('Taiwan'),
-    email: 'gtsteg123@gmail.com',
-    line: 'whattheegg.line',
-    discord: 'eggeggegg#1278',
-  },
-  [Symbol('TODO')]: 'whatever',
 };
 
-export default nk980113;
+export const version = '5.0.0';
+
+export default eggeggegg;
 ```
 [![](https://raw.githubusercontent.com/nk980113/personal-card/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nk980113/personal-card/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nk980113/personal-card/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nk980113/personal-card/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nk980113/personal-card/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-# To-do:
-  - [ ] [EGGBOT-turtle soup](https://github.com/nk980113/EGGBOT)
-  - [ ] [Freaking Terminal](https://github.com/nk980113/freaking-terminal)
