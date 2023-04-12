@@ -1,6 +1,6 @@
 # 🤔🤔🤔🤔🤔🤔
 
-```js
+```javascript
 const nk980113 = {
   version: {
     major: 4,
