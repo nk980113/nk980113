@@ -1,6 +1,10 @@
 # 🤔🤔🤔🤔🤔🤔
 
 ```javascript
+/**
+ * This is a comment
+ * which says: None of my repos is complete (except this)
+ */
 const eggeggegg = {
   age: 14,
   sex: 'male',
@@ -37,7 +41,7 @@ const eggeggegg = {
   ],
 };
 
-export const version = '5.1.0';
+export const version = '5.2.0';
 
 export default eggeggegg;
 ```
