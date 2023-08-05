@@ -8,25 +8,28 @@
 const eggeggegg = {
   age: 14,
   sex: 'male',
+  gender: 'male',
   single: true,
   country: Symbol('Taiwan'),
   career: 'student',
   email: 'gtsteg123@gmail.com',
-  discord: 'eggeggegg#1278',
+  discord: 'nicktseng',
   // ordered with frequency and familiarity
   languages: [
     'TypeScript',
     'JavaScript',
     'C# (Unity)',
+    'Rust',
     'Scratch',
     'Python',
     'HTML',
     'CSS',
     'Excel VBA',
   ],
-  learning: [
-    'React.js',
+  technologies: [
+    'Next.js',
     'Unity',
+    'tauri',
   ],
   platform: [
     'Windows 10',
@@ -41,7 +44,7 @@ const eggeggegg = {
   ],
 };
 
-export const version = '5.2.0';
+export const version = '5.3.0';
 
 export default eggeggegg;
 ```
