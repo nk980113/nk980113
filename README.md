@@ -19,8 +19,8 @@ const eggeggegg = {
   languages: [
     'TypeScript',
     'JavaScript',
-    'C# (Unity)',
     'Rust',
+    'C# (Unity)',
     'Scratch',
     'Python',
     'HTML',
@@ -29,8 +29,8 @@ const eggeggegg = {
   ],
   technologies: [
     'Next.js',
-    'Unity',
     'tauri',
+    'Unity',
   ],
   platform: [
     'Windows 10',
@@ -45,7 +45,7 @@ const eggeggegg = {
   ],
 };
 
-export const version = '5.4.0';
+export const version = '5.4.1';
 
 export default eggeggegg;
 ```
