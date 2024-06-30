@@ -25,6 +25,7 @@ const eggeggegg = {
     'Python',
     'HTML',
     'CSS',
+    'Elixir',
     'Excel VBA',
   ],
   technologies: [
@@ -45,7 +46,7 @@ const eggeggegg = {
   ],
 };
 
-export const version = '5.4.1';
+export const version = '5.4.2';
 
 export default eggeggegg;
 ```
