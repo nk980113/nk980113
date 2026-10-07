@@ -7,7 +7,7 @@
  * Update: Go download calculation master, It's my only complete project
  */
 const eggeggegg = {
-  age: 15,
+  age: 17,
   sex: 'male',
   gender: 'male',
   single: true,
@@ -46,7 +46,7 @@ const eggeggegg = {
   ],
 };
 
-export const version = '5.4.2';
+export const version = 'whatever';
 
 export default eggeggegg;
 ```
